@@ -1,6 +1,6 @@
 Hi I'm Gulraiz and i am a front developer
 - 👀 I’m interested in working on new ideas and facing bugs
-- 🌱 I’m currently learning C#.Net
+- 🌱 I’m currently learning python django
 - 💞️ 
 - 📫 How to reach me at khanniazigulraiz363@gmail.com
 - 😄 Pronouns: ...
